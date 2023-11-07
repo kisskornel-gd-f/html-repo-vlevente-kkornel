@@ -1,0 +1,17 @@
+h1{
+background-color: darkred;
+color: white;
+}
+
+h2{
+border: 1px dotted darkblue;
+color: darkred;
+}
+
+h3:hover{
+color: darkgreen;
+}
+
+h6{
+color: indianred;
+}
